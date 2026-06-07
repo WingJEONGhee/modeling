@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6d47356d9da55a7458336d3742cf9a6b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 340468
+  packageName: URP Stylized VFX Bundle
+  packageVersion: 1.0.2
+  assetPath: Assets/Vefects/Smoke Bombs VFX URP/Scripts/DemoManager.prefab
+  uploadId: 858570

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5e40695a40149d64683efe548a0bf0db
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 340468
+  packageName: URP Stylized VFX Bundle
+  packageVersion: 1.0.2
+  assetPath: Assets/Vefects/Stylized VFX URP/Stylized VFX Shuriken/Shared/Shaders/SH_VFX_Vefects_AB_DissolveTex_URP_New.shader
+  uploadId: 858570

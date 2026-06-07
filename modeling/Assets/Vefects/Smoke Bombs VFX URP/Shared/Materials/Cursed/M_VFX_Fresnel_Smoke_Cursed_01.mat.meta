@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 540f090c613d4cc49bfe1b64efcc387b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 340468
+  packageName: URP Stylized VFX Bundle
+  packageVersion: 1.0.2
+  assetPath: Assets/Vefects/Smoke Bombs VFX URP/Shared/Materials/Cursed/M_VFX_Fresnel_Smoke_Cursed_01.mat
+  uploadId: 858570

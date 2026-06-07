@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 279d9de83fd0f574ca6b4430e9fec833
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 340468
+  packageName: URP Stylized VFX Bundle
+  packageVersion: 1.0.2
+  assetPath: Assets/Vefects/Anime VFX URP/Shared/Shaders/SH_VFX_Stylized_Dissolve.shader
+  uploadId: 858570

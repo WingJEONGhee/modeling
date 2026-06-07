@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fbcc62e5de0b34d4ba22254364198d91
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322665
+  packageName: URP Flipbook VFX Bundle
+  packageVersion: 1.0.1
+  assetPath: Assets/Vefects/Flipbook VFX URP/Demo/Resources/Environment/Materials/M_Grid.mat
+  uploadId: 913826

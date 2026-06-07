@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1554954cc2b57064f897c12f8a401c1c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 340468
+  packageName: URP Stylized VFX Bundle
+  packageVersion: 1.0.2
+  assetPath: Assets/Vefects/Stylized VFX URP/Stylized VFX Shuriken/Shared/Meshes/SM_VFX_PlaneBumped.prefab
+  uploadId: 858570

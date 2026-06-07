@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3a7a88d2ebabc614394cfa1a62efea55
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 340468
+  packageName: URP Stylized VFX Bundle
+  packageVersion: 1.0.2
+  assetPath: Assets/Vefects/Smoke Bombs VFX URP/Demo/Shared/GlobalEffectVolume Profile.asset
+  uploadId: 858570

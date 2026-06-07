@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fd8a4acd7f8bf4e4faa942e930b4fd05
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 340468
+  packageName: URP Stylized VFX Bundle
+  packageVersion: 1.0.2
+  assetPath: Assets/Vefects/Anime VFX URP/Shared/Particles/VFX_Lightning_Spawn.prefab
+  uploadId: 858570

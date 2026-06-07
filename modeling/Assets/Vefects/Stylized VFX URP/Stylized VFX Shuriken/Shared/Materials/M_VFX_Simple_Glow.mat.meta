@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dbdd7248b23714e4a860091a66653785
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 340468
+  packageName: URP Stylized VFX Bundle
+  packageVersion: 1.0.2
+  assetPath: Assets/Vefects/Stylized VFX URP/Stylized VFX Shuriken/Shared/Materials/M_VFX_Simple_Glow.mat
+  uploadId: 858570

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 030734ebbd0b08f40bce8c014c9b6264
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 340468
+  packageName: URP Stylized VFX Bundle
+  packageVersion: 1.0.2
+  assetPath: Assets/Vefects/Stylized VFX URP/_ Extra/Shaders/SH_Vefects_Extra_Billboard_01.shader
+  uploadId: 858570

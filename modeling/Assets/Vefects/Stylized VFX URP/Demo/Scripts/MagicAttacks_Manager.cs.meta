@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 22b9c689d8e584e4ebe8bdbccd7b00ce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 340468
+  packageName: URP Stylized VFX Bundle
+  packageVersion: 1.0.2
+  assetPath: Assets/Vefects/Stylized VFX URP/Demo/Scripts/MagicAttacks_Manager.cs
+  uploadId: 858570

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a0ac9e6b46e6704498f6b86947487b70
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322665
+  packageName: URP Flipbook VFX Bundle
+  packageVersion: 1.0.1
+  assetPath: Assets/Vefects/Pixel Craft VFX URP/VFX/Respawn/Materials/M_VFX_Respawn_01_Mask.mat
+  uploadId: 913826

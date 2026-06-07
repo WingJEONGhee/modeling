@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 750d97dd85a63bb4099953a288a6918e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Noise_Color_Texture: {fileID: 2800000, guid: 301564cad965bbb4da5072b5cf9406cb,
+      type: 3}
+  - _NoiseDistortion_Texture: {fileID: 2800000, guid: 02b0d0a96eedb3d4fa5664350b35ba23,
+      type: 3}
+  - _Noise_01_Texture: {fileID: 2800000, guid: 301564cad965bbb4da5072b5cf9406cb, type: 3}
+  - _Noise_02_Texture: {fileID: 2800000, guid: 2f822f6dfbe26f44eadb94a1b925409d, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 340468
+  packageName: URP Stylized VFX Bundle
+  packageVersion: 1.0.2
+  assetPath: Assets/Vefects/Smoke Bombs VFX URP/Shared/Shaders/SH_Vefects_VFX_Fresnel_Newer.shader
+  uploadId: 858570

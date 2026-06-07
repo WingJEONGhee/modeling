@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0f627717fd4b2884ba13446410d4b5a1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 340468
+  packageName: URP Stylized VFX Bundle
+  packageVersion: 1.0.2
+  assetPath: Assets/Vefects/Stylized VFX URP/Stylized VFX Shuriken/Shared/Meshes/SM_VFX_Projectile_01.prefab
+  uploadId: 858570
