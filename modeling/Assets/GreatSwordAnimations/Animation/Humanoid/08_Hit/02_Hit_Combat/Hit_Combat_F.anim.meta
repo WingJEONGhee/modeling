@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f83bb9fc2bc83944b83eb9cc419457a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260640
+  packageName: Great Sword Animation Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/GreatSwordAnimations/Animation/Humanoid/08_Hit/02_Hit_Combat/Hit_Combat_F.anim
+  uploadId: 610067

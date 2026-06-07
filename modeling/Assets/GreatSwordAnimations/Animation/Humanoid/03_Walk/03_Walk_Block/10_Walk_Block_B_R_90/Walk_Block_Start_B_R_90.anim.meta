@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c0098f148773fb4b8599f5dc7c3a46f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260640
+  packageName: Great Sword Animation Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/GreatSwordAnimations/Animation/Humanoid/03_Walk/03_Walk_Block/10_Walk_Block_B_R_90/Walk_Block_Start_B_R_90.anim
+  uploadId: 610067

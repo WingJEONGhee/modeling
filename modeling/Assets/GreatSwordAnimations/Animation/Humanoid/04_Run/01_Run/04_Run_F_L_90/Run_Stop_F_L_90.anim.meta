@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56a683142749f7a479aef05f4b2fde31
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260640
+  packageName: Great Sword Animation Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/GreatSwordAnimations/Animation/Humanoid/04_Run/01_Run/04_Run_F_L_90/Run_Stop_F_L_90.anim
+  uploadId: 610067

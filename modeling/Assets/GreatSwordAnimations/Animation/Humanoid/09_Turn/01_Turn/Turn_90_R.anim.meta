@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 61be92b1e28b61e49aba7872664ea058
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260640
+  packageName: Great Sword Animation Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/GreatSwordAnimations/Animation/Humanoid/09_Turn/01_Turn/Turn_90_R.anim
+  uploadId: 610067

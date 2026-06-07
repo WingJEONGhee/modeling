@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 861035d0e40bf28459b187abf446edc8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260640
+  packageName: Great Sword Animation Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/GreatSwordAnimations/Animation/Humanoid/04_Run/01_Run/05_Run_F_R_90/Run_Start_F_R_90.anim
+  uploadId: 610067

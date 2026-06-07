@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 12d8233ec8d1db142a4d2c4efe93ff1c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 355538
+  packageName: Scythe Animation Pack
+  packageVersion: 1.0
+  assetPath: Assets/Scythe Animation Pack/Animations/Humanoid/08_Hit/09_Hit_Air_Large_To_Floor/Hit_Air_Large_To_Floor_Start.anim
+  uploadId: 847004

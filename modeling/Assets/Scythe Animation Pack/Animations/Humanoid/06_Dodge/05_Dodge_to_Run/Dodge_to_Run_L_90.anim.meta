@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 58d402fa3d313c341a0b463c000dbc7d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 355538
+  packageName: Scythe Animation Pack
+  packageVersion: 1.0
+  assetPath: Assets/Scythe Animation Pack/Animations/Humanoid/06_Dodge/05_Dodge_to_Run/Dodge_to_Run_L_90.anim
+  uploadId: 847004

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c35d37757325c142b95f95265c335c0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 355538
+  packageName: Scythe Animation Pack
+  packageVersion: 1.0
+  assetPath: Assets/Scythe Animation Pack/Animations/Humanoid/03_Walk/04_Walk_Equip/Walk_Combat_Equip_to_Walk.anim
+  uploadId: 847004

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e75be0df7bb8f9942944700cca386a07
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260640
+  packageName: Great Sword Animation Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/GreatSwordAnimations/Animation/Humanoid/07_Roll/01_Roll/Roll_B_180.anim
+  uploadId: 610067

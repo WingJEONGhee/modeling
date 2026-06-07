@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 02dcde9d2dca49d4ea42e0c0091cb121
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260640
+  packageName: Great Sword Animation Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/GreatSwordAnimations/Animation/Humanoid/03_Walk/01_Walk/06_Walk_B_180/Walk_Start_B_180.anim
+  uploadId: 610067

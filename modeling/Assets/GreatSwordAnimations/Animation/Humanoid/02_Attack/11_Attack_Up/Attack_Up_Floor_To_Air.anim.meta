@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca2fa72629def914e9c05cb4290b0258
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260640
+  packageName: Great Sword Animation Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/GreatSwordAnimations/Animation/Humanoid/02_Attack/11_Attack_Up/Attack_Up_Floor_To_Air.anim
+  uploadId: 610067

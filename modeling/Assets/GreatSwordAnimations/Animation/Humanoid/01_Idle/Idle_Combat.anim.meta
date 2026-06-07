@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f7417ae1d17c95047b3185d569cc073b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260640
+  packageName: Great Sword Animation Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/GreatSwordAnimations/Animation/Humanoid/01_Idle/Idle_Combat.anim
+  uploadId: 610067

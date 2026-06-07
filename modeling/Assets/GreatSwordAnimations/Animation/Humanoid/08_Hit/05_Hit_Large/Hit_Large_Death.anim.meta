@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da54ae17a972bb14f8ba6e0a3ba7f3e6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260640
+  packageName: Great Sword Animation Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/GreatSwordAnimations/Animation/Humanoid/08_Hit/05_Hit_Large/Hit_Large_Death.anim
+  uploadId: 610067

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6c3e795315e886d468dcd580f014cd98
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260640
+  packageName: Great Sword Animation Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/GreatSwordAnimations/Animation/Humanoid/05_Jump/01_Jump/01_Jump_0/Jump_Loop_0.anim
+  uploadId: 610067

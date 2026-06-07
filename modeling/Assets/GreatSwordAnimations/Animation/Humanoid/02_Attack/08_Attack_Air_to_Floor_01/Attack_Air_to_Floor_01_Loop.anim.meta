@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ef20e0b095908844807060fdcf9d872
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260640
+  packageName: Great Sword Animation Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/GreatSwordAnimations/Animation/Humanoid/02_Attack/08_Attack_Air_to_Floor_01/Attack_Air_to_Floor_01_Loop.anim
+  uploadId: 610067

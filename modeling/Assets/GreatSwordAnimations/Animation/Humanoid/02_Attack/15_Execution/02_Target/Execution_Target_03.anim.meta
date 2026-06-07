@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3ea16f9937c89f46ac7b4838cca4896
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260640
+  packageName: Great Sword Animation Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/GreatSwordAnimations/Animation/Humanoid/02_Attack/15_Execution/02_Target/Execution_Target_03.anim
+  uploadId: 610067

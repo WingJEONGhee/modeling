@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 51d8a743aa91f744fb3c202f1caaf3f0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260640
+  packageName: Great Sword Animation Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/GreatSwordAnimations/Animation/Humanoid/08_Hit/06_Hit_Large_Combat/Hit_Combat_Large_L.anim
+  uploadId: 610067

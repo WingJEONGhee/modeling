@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca97bec4e96218b4a920eb76e41ec8b1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260640
+  packageName: Great Sword Animation Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/GreatSwordAnimations/Animation/Humanoid/04_Run/02_Run_Combat/11_Run_Fast_Combat/Run_Fast_Combat_Lean_R_Loop.anim
+  uploadId: 610067

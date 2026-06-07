@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e095329107d1c6e48ba711ff242d6cdc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 355538
+  packageName: Scythe Animation Pack
+  packageVersion: 1.0
+  assetPath: Assets/Scythe Animation Pack/Animations/Humanoid/01_Idle/04_Offset_Idle_Combat/Idle_Combat_L.anim
+  uploadId: 847004

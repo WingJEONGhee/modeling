@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: deaafa5e14378b94289ca65c65f6c92c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260640
+  packageName: Great Sword Animation Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/GreatSwordAnimations/Animation/Humanoid/08_Hit/11_Knock_Down_Combat/Knock_Down_Combat_Start.anim
+  uploadId: 610067

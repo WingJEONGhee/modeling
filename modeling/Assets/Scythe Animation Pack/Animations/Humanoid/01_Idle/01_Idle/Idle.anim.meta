@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f6ab2159f1bfca2458b14edf9cb2961c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 355538
+  packageName: Scythe Animation Pack
+  packageVersion: 1.0
+  assetPath: Assets/Scythe Animation Pack/Animations/Humanoid/01_Idle/01_Idle/Idle.anim
+  uploadId: 847004

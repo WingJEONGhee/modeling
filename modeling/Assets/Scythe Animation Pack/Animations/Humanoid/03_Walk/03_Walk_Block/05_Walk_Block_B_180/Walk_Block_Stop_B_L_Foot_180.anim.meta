@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: df092b5f2bc03704d964c923b544e3d0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 355538
+  packageName: Scythe Animation Pack
+  packageVersion: 1.0
+  assetPath: Assets/Scythe Animation Pack/Animations/Humanoid/03_Walk/03_Walk_Block/05_Walk_Block_B_180/Walk_Block_Stop_B_L_Foot_180.anim
+  uploadId: 847004

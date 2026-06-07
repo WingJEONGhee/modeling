@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e09d24ed49eca841a27d09da6921405
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260640
+  packageName: Great Sword Animation Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/GreatSwordAnimations/Materials/Sword.mat
+  uploadId: 610067
