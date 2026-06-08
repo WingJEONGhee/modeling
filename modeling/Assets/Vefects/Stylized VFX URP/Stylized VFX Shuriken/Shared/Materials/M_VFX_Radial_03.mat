@@ -48,7 +48,7 @@ Material:
     - _AlphaCutoff: 0.5
     - _Cull: 2
     - _Dst: 1
-    - _Emissive_Intensity: 2
+    - _Emissive_Intensity: 20
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
@@ -59,3 +59,4 @@ Material:
     m_Colors:
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1

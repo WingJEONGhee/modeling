@@ -170,7 +170,7 @@ Material:
     - _EmissiveSlashSpeed: 1
     - _EmissiveSlash_Scale: 6
     - _EmissiveSlash_Speed: 0.8
-    - _Emissive_Intensity: 25
+    - _Emissive_Intensity: 100
     - _Emissive_Slash_Scale: 1
     - _Emissive_Slash_Speed: 1
     - _GlossMapScale: 1
@@ -230,3 +230,4 @@ Material:
     - _Slash_Noise_Scale: {r: 3, g: 1.3, b: 0, a: 0}
     - _Slash_Noise_Speed: {r: 0.4, g: -0.1, b: 0, a: 0}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1

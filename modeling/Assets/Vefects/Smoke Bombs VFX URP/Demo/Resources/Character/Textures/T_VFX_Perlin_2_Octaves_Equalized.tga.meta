@@ -123,8 +123,8 @@ TextureImporter:
   assetBundleVariant: 
 AssetOrigin:
   serializedVersion: 1
-  productId: 322665
-  packageName: URP Flipbook VFX Bundle
-  packageVersion: 1.0.1
-  assetPath: Assets/Vefects/Combat Flipbook VFX URP/Demo/Resources/Textures/T_VFX_Perlin_2_Octaves_Equalized.tga
-  uploadId: 913826
+  productId: 303479
+  packageName: Zap VFX - URP
+  packageVersion: 1.0.3
+  assetPath: Assets/Vefects/Smoke Bombs VFX URP/Demo/Resources/Character/Textures/T_VFX_Perlin_2_Octaves_Equalized.tga
+  uploadId: 778923
